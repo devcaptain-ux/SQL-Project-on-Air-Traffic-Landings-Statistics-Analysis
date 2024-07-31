@@ -5,7 +5,7 @@ This project aims to analyze air traffic landings statistics using SQL to extrac
 
 Key SQL Queries
 1. Total Landings and Total Landed Weight by Airline (This query calculates the total number of landings and the total landed weight for each airline.)
-   
+
 2. Average Landings and Landed Weight by Aircraft Model(This query calculates the average number of landings and the average landed weight for each aircraft model.)
 
 3.Distinct Aircraft Models in Europe(This query lists distinct aircraft models that operate in Europe.)
