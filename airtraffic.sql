@@ -17,8 +17,6 @@ Landing_Count int not null,
 Total_Landed_Weight int not null
 );
 
-SELECT * FROM airtraffic.traffic WHERE Operating_Airline = 'Airline A';
-
 
 SELECT 
     Operating_Airline,
