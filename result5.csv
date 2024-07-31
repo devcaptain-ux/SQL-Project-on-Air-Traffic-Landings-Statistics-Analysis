@@ -1,0 +1,2 @@
+active_period,Operating_Airline,Operating_Airline_IATA_Code,Published_Airline,Published_Airline_IATA_Code,GEO_Summary,GEO_Region,Landing_Aircraft_Type,Aircraft_Body_Type,Aircraft_Manufacturer,Aircraft_Model,Aircraft_Version,Landing_Count,Total_Landed_Weight
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1566,246353800

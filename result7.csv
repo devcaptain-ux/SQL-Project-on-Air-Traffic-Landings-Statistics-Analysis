@@ -1,0 +1,1001 @@
+active_period,Operating_Airline,Operating_Airline_IATA_Code,Published_Airline,Published_Airline_IATA_Code,GEO_Summary,GEO_Region,Landing_Aircraft_Type,Aircraft_Body_Type,Aircraft_Manufacturer,Aircraft_Model,Aircraft_Version,Landing_Count,Total_Landed_Weight
+201809,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,30,1410000
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,125,17787978
+201809,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201809,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B739,-,3,491700
+201809,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,16,7301712
+201809,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A333,-,9,3710376
+201809,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,30,12235650
+201809,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,60,8778000
+201809,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,283,40901600
+201809,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,29,16066000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,27,8640000
+201809,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,29,11020000
+201809,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,138,10374564
+201809,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,118,65372000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,282,44358600
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,7,1386000
+201809,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25529520
+201809,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,17,2479759
+201809,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,15,10230000
+201809,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,55,8164180
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,12,4761600
+201809,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,9,1162800
+201809,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,21,5712000
+201809,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A359,-,1,456357
+201809,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,13,7202000
+201809,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,59,32686000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1347,189151028
+201809,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,77,10949246
+201809,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,9,3584715
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,5,857600
+201809,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,3,1380312
+201809,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,65,4872205
+201809,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,5,3260000
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,20,3430400
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,359,80416000
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B773,-,4,2216000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,517,102366000
+201809,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,25,13850000
+201809,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,26,16506000
+201809,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,208,13936000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B777,-,1,460000
+201809,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,1,470000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,178,25632000
+201809,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,86,47644000
+201809,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E175,-,12,899484
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,15,6375000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,227,101255000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,3,1050000
+201809,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201809,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1085,138880000
+201809,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,30,4369500
+201809,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25899894
+201809,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,32,15744000
+201809,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,24,15984000
+201809,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,30,17129910
+201809,"Icelandair EHF",FI,"Icelandair EHF",FI,International,Europe,Passenger,"Wide Body",Boeing,B763,-,17,5440000
+201809,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,5,2350000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,125,28000000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,247,48906000
+201809,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,63,9216900
+201809,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B773,-,24,13296000
+201809,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,25,19075000
+201809,"Thomas Cook Airlines",MT,"Thomas Cook Airlines",MT,International,Europe,Passenger,"Wide Body",Airbus,A332,-,12,4748757
+201809,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,5,710990
+201809,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,21,2893569
+201809,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,59,23673219
+201809,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,17,7225000
+201809,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201809,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,75,34500000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,9,3825000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,5,710990
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,171,24624000
+201809,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,601,45049157
+201809,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,147,62475000
+201809,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,379,28408703
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,325,35750000
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,232,40508592
+201809,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,372,63805440
+201809,"XL Airways France",SE,"XL Airways France",SE,International,Europe,Passenger,"Wide Body",Airbus,A332,-,4,1591737
+201809,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,29,12325000
+201809,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,29,18270000
+201809,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,7,3878000
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,5,688940
+201809,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,30,20640000
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,23,8050000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,819,140458500
+201809,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,320000
+201809,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,71,10129128
+201809,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,1233,57951000
+201809,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13690710
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,43,18275000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,24,9120000
+201809,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,18,1349226
+201809,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,30,11400000
+201809,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,53,3978025
+201809,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,341,46985708
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,4,537928
+201809,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25860210
+201809,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,212,15937736
+201809,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,30,12698612
+201809,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,45,19125000
+201809,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,73,9431600
+201809,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,17,7225000
+201809,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13558440
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1304,205286400
+201809,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Freighter,"Wide Body",Boeing,B772,-,1,575000
+201809,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,6,2760624
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,10,5540000
+201809,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,22,14340000
+201809,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,30,18900000
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,54,7718376
+201809,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,5,3260000
+201809,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201809,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,19,6080000
+201809,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,24,3775200
+201809,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,97,7270829
+201809,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,16,2347300
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,34,4572388
+201809,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,3,514560
+201809,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201809,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,60,8778000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1,142198
+201809,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,17,2674100
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,120,18336000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,1428,208916400
+201809,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B772,-,13,6396000
+201809,Finnair,AY,Finnair,AY,International,Asia,Passenger,"Wide Body",Airbus,A333,-,2,824528
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,19,7220000
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1140,162783655
+201809,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,119,18564700
+201809,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,45,24930000
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,46,6729800
+201809,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,230,33649000
+201809,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,40,12400000
+201809,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,26,3700455
+201809,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,35,2626589
+201809,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,5,688945
+201808,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,93,51522000
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,1,137700
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,23,3093086
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1660,233566413
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,1445,211403500
+201808,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,26,3716990
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,29,10150000
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,12,1613784
+201808,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,117,8769969
+201808,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,25,15869000
+201808,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,31,13175000
+201808,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,31,12643505
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,3,1275000
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,2,396000
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,4,551152
+201808,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,238,15946000
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B772,-,18,8856000
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,81,11584178
+201808,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,62,28520000
+201808,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,30,2248710
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,239,26290000
+201808,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,41,15580000
+201808,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,1,470000
+201808,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,90,6752760
+201808,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,31,1457000
+201808,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,5,3274000
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,320000
+201808,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,23,7378000
+201808,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26775129
+201808,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21328000
+201808,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,18,2325600
+201808,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25860210
+201808,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,13,2229760
+201808,"Icelandair EHF",FI,"Icelandair EHF",FI,International,Europe,Passenger,"Wide Body",Boeing,B763,-,18,5760000
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B777,-,1,460000
+201808,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,58,23271978
+201808,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,27,17982000
+201808,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14147067
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,448,100352000
+201808,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,45,7068500
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,33,10560000
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B773,-,3,1662000
+201808,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,54,7900200
+201808,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,9,1240101
+201808,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,23,8740000
+201808,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,1,682000
+201808,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,3,1380312
+201808,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,55,7917200
+201808,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Airbus,A333,-,1,412260
+201808,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,929,43663000
+201808,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25529520
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,334,66132000
+201808,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,1,652000
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,43,18275000
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,21,8925000
+201808,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,288,41669200
+201808,"Thomas Cook Airlines",MT,"Thomas Cook Airlines",MT,International,Europe,Passenger,"Wide Body",Airbus,A332,-,13,5222749
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1566,246353800
+201808,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,76,11118800
+201808,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E175,-,1,74957
+201808,"XL Airways France",SE,"XL Airways France",SE,International,Europe,Passenger,"Wide Body",Airbus,A332,-,13,5198497
+201808,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,18,8214426
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,585,115830000
+201808,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14010388
+201808,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,30,20460000
+201808,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,74,9560800
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,4,1604964
+201808,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,68,9669464
+201808,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,31,13121897
+201808,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,60,25500000
+201808,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1,74957
+201808,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,11,4369561
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1268,181183419
+201808,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,74,10522652
+201808,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1549,116108393
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,12,4761600
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,130,18492354
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A321,-,1,174606
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,37,5413100
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,154,22176000
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,29,4123742
+201808,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,3,960000
+201808,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,5,2300520
+201808,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,19,2779700
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,265,118100000
+201808,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,433,68110900
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,142,31808000
+201808,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,392,67235840
+201808,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,40,5912810
+201808,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,18,7650000
+201808,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,2,275578
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,43,13330000
+201808,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,40,19680000
+201808,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,53,8336900
+201808,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,9,1210338
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,15,8310000
+201808,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,60,33240000
+201808,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,143,20420296
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,36,13680000
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,2,275578
+201808,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,157,66725000
+201808,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19530000
+201808,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,265,38769500
+201808,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,146,22308800
+201808,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,23,12742000
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,882,151263000
+201808,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,32,12160000
+201808,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,26,16896000
+201808,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,1,470000
+201808,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,8,1372160
+201808,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,124,68696000
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,4,1400000
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,155,24018500
+201808,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,16,1199312
+201808,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A333,-,13,5359432
+201808,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,24,6526000
+201808,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,31,17700907
+201808,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,58,8485400
+201808,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,333,25034274
+201808,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,184,26496000
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,209,36492654
+201808,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201808,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,25,19075000
+201808,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1176,150528000
+201808,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,20,2940970
+201808,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Airbus,A343,-,10,4188780
+201808,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,32,20123043
+201808,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,366,50430408
+201807,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1695,127052115
+201807,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,91,50414000
+201807,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,53,7606600
+201807,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,40,19680000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B773,-,8,4432000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,24,10200000
+201807,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,62,24876942
+201807,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,97,13793206
+201807,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,40,15200000
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,100,14322317
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,7,941374
+201807,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A333,-,2,815710
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,35,10850000
+201807,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21142000
+201807,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,3,413367
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,912,156408000
+201807,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,23,12742000
+201807,"Icelandair EHF",FI,"Icelandair EHF",FI,International,Europe,Passenger,"Wide Body",Boeing,B763,-,18,5760000
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,141,20304000
+201807,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14147067
+201807,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,58,24650000
+201807,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,15,2572800
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,2,850000
+201807,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,20,5440000
+201807,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,80,11704000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B772,-,30,14760000
+201807,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,389,66721280
+201807,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,18,2646433
+201807,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201807,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,289,21726442
+201807,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,26,14404000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,147,20919641
+201807,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,155,65875000
+201807,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,26,16904000
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,406,55941928
+201807,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,19,2779700
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,4,1604964
+201807,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,31,17700907
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1680,236551461
+201807,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A333,-,13,5359432
+201807,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,26,3532909
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,187,26928000
+201807,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B789,-,8,3400000
+201807,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201807,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26768515
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1464,209285717
+201807,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B772,-,1,470000
+201807,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,2,920208
+201807,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,796,37412000
+201807,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,5,2350000
+201807,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,32,12160000
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,189,33000534
+201807,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,7,995386
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,472,74245600
+201807,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,57,8956100
+201807,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,47,6876100
+201807,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,4,2608000
+201807,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,47,6876100
+201807,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,17,7225000
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,127,19724100
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,153,34272000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1278,200899400
+201807,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,4,551156
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,51,7461300
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,39,12480000
+201807,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19530000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,11,6094000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,626,123948000
+201807,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201807,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,26,16471000
+201807,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14010388
+201807,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,18,8214426
+201807,Finnair,AY,Finnair,AY,International,Asia,Passenger,"Wide Body",Airbus,A333,-,1,412264
+201807,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,126,69804000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,3,960000
+201807,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21328000
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,256,28160000
+201807,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,31,1457000
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,27,9450000
+201807,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,31,13121897
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,7,1200640
+201807,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,62,28520000
+201807,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Airbus,A343,-,13,5445414
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A333,-,2,824520
+201807,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19530000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,264,117495000
+201807,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,21,3067953
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,1278,186971400
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,314,62172000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,25,9500000
+201807,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26722217
+201807,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,31,13175000
+201807,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,307,44393900
+201807,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,2,292600
+201807,"XL Airways France",SE,"XL Airways France",SE,International,Europe,Passenger,"Wide Body",Airbus,A332,-,13,5202906
+201807,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,22,16786000
+201807,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25529520
+201807,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,75,9690000
+201807,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,62,34348000
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,21,2986158
+201807,"Thomas Cook Airlines",MT,"Thomas Cook Airlines",MT,International,Europe,Passenger,"Wide Body",Airbus,A332,-,14,5577694
+201807,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,70,11011000
+201807,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,29,2173753
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,9,1210338
+201807,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1,142198
+201807,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201807,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,31,12643505
+201807,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,31,2323667
+201807,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,3,1390000
+201807,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,137,20933600
+201807,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,228,33356400
+201807,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,20,2584000
+201807,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,6,2760624
+201807,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,7,524699
+201807,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,68,9669464
+201807,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,23,12742000
+201807,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1161,148617600
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,2,275576
+201807,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,93,6981167
+201807,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,2,258400
+201807,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,17,2915840
+201807,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,154,21958018
+201807,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201807,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,19,7539200
+201807,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,11,4365152
+201807,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,27,17982000
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,470,105280000
+201807,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201807,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,228,15276000
+201807,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,24,7812000
+201807,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,118,8847799
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,2,258400
+201806,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,62,9752600
+201806,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,137,19504275
+201806,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,280,40449300
+201806,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,17,7758069
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,83,12682400
+201806,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,7,3290000
+201806,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,12,1755600
+201806,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,16,2340800
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,18,9972000
+201806,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,11,4365152
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,5,1550000
+201806,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,41,5869600
+201806,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,31,2330518
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,3,1275000
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,575,113850000
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,6,806892
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Airbus,A333,-,1,412264
+201806,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A333,-,12,4947168
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,1,198000
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,4,551152
+201806,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,45,6583500
+201806,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,18,2668482
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,33,10535000
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,176,25043383
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,6,853188
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,1,157300
+201806,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,61,33794000
+201806,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,1,74957
+201806,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,30,12698611
+201806,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"Thomas Cook Airlines",MT,"Thomas Cook Airlines",MT,International,Europe,Passenger,"Wide Body",Airbus,A332,-,12,4742143
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,16,2204624
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,25,9920000
+201806,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25926350
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1299,204232700
+201806,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,230,15410000
+201806,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,29,24678536
+201806,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,105,7870485
+201806,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13690710
+201806,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B788,-,2,760000
+201806,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,27,3654163
+201806,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1148,146945200
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,123,19171900
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,1069,156394700
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,332,52223600
+201806,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,8,1140891
+201806,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,18,3087360
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,32,5488640
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,25,9500000
+201806,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,17,9418000
+201806,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,25,16650000
+201806,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,60,25500000
+201806,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,41,15580000
+201806,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,78,11091444
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1575,224987020
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,15,2572800
+201806,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,20,5440000
+201806,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,18,2628351
+201806,"XL Airways France",SE,"XL Airways France",SE,International,Europe,Passenger,"Wide Body",Airbus,A332,-,4,1604964
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,126,22000356
+201806,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1607,120455899
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,45,19125000
+201806,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,30,18900000
+201806,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,23,8740000
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,148,33152000
+201806,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,17,7225000
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,155,22676500
+201806,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,30,12235650
+201806,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,36,2698452
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,28,9800000
+201806,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,80,44320000
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,42,6144600
+201806,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,28,3617600
+201806,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B773,-,28,15512000
+201806,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,26,19838000
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,94,13488971
+201806,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,377,64663040
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,915,156922500
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,151,21744000
+201806,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,8,599656
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B772,-,6,2952000
+201806,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,30,17129910
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,417,93408000
+201806,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,151,64175000
+201806,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,30,20640000
+201806,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B736,-,3,361500
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,311,61578000
+201806,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,59,27140000
+201806,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,2,920208
+201806,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B748,-,8,6104000
+201806,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,3,1390000
+201806,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,336,46296764
+201806,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,288,21651264
+201806,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,89,6678245
+201806,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,9,5868000
+201806,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,39,2923323
+201806,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,29,24998203
+201806,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,120,66480000
+201806,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,6,2760624
+201806,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,36,1692000
+201806,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B789,-,30,12750000
+201806,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,23,12742000
+201806,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,30,20460000
+201806,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,61,24475701
+201806,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B773,-,7,3878000
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,48,6825504
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,58,9123400
+201806,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,26,16464000
+201806,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,258,37745400
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,3,960000
+201806,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,37,4975834
+201806,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,878,41266000
+201806,"Icelandair EHF",FI,"Icelandair EHF",FI,International,Europe,Passenger,"Wide Body",Boeing,B763,-,17,5440000
+201806,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,71,9173200
+201806,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,77,11265100
+201806,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Airbus,A343,-,14,5864292
+201806,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,3,1956000
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,1,401241
+201806,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,22,7106000
+201806,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13558440
+201806,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,25,16260000
+201806,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,281,30910000
+201806,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,6,3324000
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,252,112185000
+201806,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,30,12750000
+201806,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,205,29520000
+201806,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19493043
+201806,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,11,1515679
+201806,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,33,16236000
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1538,216227075
+201806,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,2,258400
+201805,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21142000
+201805,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,9,1286396
+201805,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,23,7344000
+201805,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19530000
+201805,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,59,2773000
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,150,23595000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,600,118800000
+201805,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26768515
+201805,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,1217,57199000
+201805,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,155,65875000
+201805,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Airbus,A343,-,13,5445414
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,455,90090000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,320000
+201805,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,35,5505500
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1705,243548821
+201805,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26380504
+201805,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,26,16492000
+201805,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,326000
+201805,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ9,-,2,150200
+201805,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,5,2770000
+201805,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,389,66721280
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,75,11460000
+201805,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19530000
+201805,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,94,7045958
+201805,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,17,2513716
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,30,11400000
+201805,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14147067
+201805,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,341,25635698
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1318,207181400
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,2,292600
+201805,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,7,4564000
+201805,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,31,13121897
+201805,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,5,710990
+201805,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,62,4647334
+201805,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B773,-,8,4432000
+201805,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,22,3168000
+201805,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,13,7202000
+201805,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,15,8310000
+201805,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,120,17129900
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,184,26496000
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,150,33600000
+201805,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,35,17220000
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,42,5648244
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,18,3087360
+201805,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,9,3571488
+201805,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,29,18940000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,1,137788
+201805,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,79,43766000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,242,33344696
+201805,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B748,-,14,10682000
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,31,4408138
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201805,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14010388
+201805,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,22,5984000
+201805,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1065,79829205
+201805,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,31,17700907
+201805,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,33,14025000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,289,42280700
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,3,514560
+201805,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,19,2779700
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,897,153835500
+201805,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,229,15343000
+201805,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1221,156288000
+201805,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,51,3822807
+201805,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,62,24876942
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,37,15725000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,144,22277200
+201805,"Thomas Cook Airlines",MT,"Thomas Cook Airlines",MT,International,Europe,Passenger,"Wide Body",Airbus,A332,-,9,3602352
+201805,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,17,7758069
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1457,204087368
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,24,9523200
+201805,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,2,268964
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,1,134482
+201805,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,58,8485400
+201805,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21328000
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B763,-,14,4478600
+201805,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,85,39100000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,334,74816000
+201805,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,15,6901560
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,147,25667082
+201805,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,4,2216000
+201805,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,2,920208
+201805,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,16,2328080
+201805,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B789,-,31,13175000
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,3,594000
+201805,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B736,-,1,120500
+201805,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,124,17645780
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,24,8400000
+201805,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,2,1304000
+201805,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,57,7853973
+201805,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,1,137789
+201805,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,99,7442622
+201805,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,61,7881200
+201805,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,80,11704000
+201805,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,31,26722217
+201805,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,26,10604230
+201805,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,61,33794000
+201805,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,21,3072300
+201805,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,205,29608400
+201805,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B788,-,22,8360000
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,186,26784000
+201805,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,31,13175000
+201805,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B789,-,1,425000
+201805,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,16,7520000
+201805,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,18,3087360
+201805,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,2,1304000
+201805,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,29,22127000
+201805,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,5,1550000
+201805,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,953,139423900
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,32,10240000
+201805,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,30,4719000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,2,258400
+201805,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,43,16340000
+201805,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,2,760000
+201805,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,59,8629300
+201805,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,14,5950000
+201805,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,28,3858092
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,241,35258300
+201805,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201805,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,84,12033921
+201805,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,124,68696000
+201805,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,160,12006380
+201805,Finnair,AY,Finnair,AY,International,Europe,Passenger,"Wide Body",Airbus,A333,-,12,4947168
+201805,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,25,16650000
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,230,102405000
+201805,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,35,4976930
+201805,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,147,16170000
+201804,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,28,5544000
+201804,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,68,5112104
+201804,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,9,3571488
+201804,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,217,14539000
+201804,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,22,7024000
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,1,152800
+201804,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,148,62900000
+201804,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,29,24998203
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1207,189811100
+201804,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,59,2773000
+201804,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,30,18900000
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,256,114205000
+201804,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,182,26208000
+201804,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,13,2229760
+201804,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,31,19493043
+201804,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,60,4497420
+201804,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,143,10728796
+201804,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,1,137789
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,49,17150000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1693,241806068
+201804,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,68,31280000
+201804,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25919736
+201804,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,40,5757500
+201804,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,29,4123742
+201804,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,4,1880000
+201804,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,25,3444725
+201804,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,17,6933535
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B788,-,2,760000
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1440,201568595
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,10,1344820
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,19,3258880
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,92,20608000
+201804,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B748,-,16,12208000
+201804,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,5,2300300
+201804,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,4,585200
+201804,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,60,24074460
+201804,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,121,67034000
+201804,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,23,8740000
+201804,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,1,146300
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,181,26480300
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,586,116028000
+201804,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,2,920208
+201804,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,1269,59643000
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,185,20350000
+201804,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,22,3201110
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,131,18864000
+201804,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1040,77955280
+201804,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,23,12742000
+201804,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,26,16499000
+201804,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1205,154240000
+201804,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,14,7756000
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,7,2240000
+201804,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,76,5696732
+201804,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,26,17316000
+201804,"Total Airport Services",,"Total Airport Services",,International,Mexico,Freighter,"Wide Body",Boeing,B762,-,14,3962000
+201804,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,37,20498000
+201804,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B788,-,24,9120000
+201804,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Passenger,"Narrow Body",Boeing,B737,-,4,516800
+201804,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,28,11110400
+201804,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,30,12750000
+201804,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,331,24883918
+201804,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Airbus,A388,-,9,7658856
+201804,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Boeing,B772,-,1,460000
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B763,-,30,9597000
+201804,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,4,516800
+201804,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,30,12698610
+201804,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,18,8205512
+201804,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,21,3303300
+201804,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,30,17129910
+201804,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,24,3511200
+201804,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,13,1925522
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,308,60984000
+201804,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,1,652000
+201804,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,22,2985060
+201804,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201804,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,3,1400000
+201804,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,38,18696000
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,5,675717
+201804,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B789,-,30,12750000
+201804,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,38,5977400
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,975,142642500
+201804,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,20,5440000
+201804,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,800,137200000
+201804,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,115,8620055
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,321,50493300
+201804,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,372,63804696
+201804,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,17,2417366
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,30,4320000
+201804,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,77,11265100
+201804,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,3,1998000
+201804,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13558440
+201804,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,8,5216000
+201804,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,39,14820000
+201804,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,147,20949404
+201804,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,28,21364000
+201804,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,13,5525000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,2,258400
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,295,66080000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,180,24801840
+201804,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,45,6200505
+201804,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,30,13690710
+201804,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Airbus,A343,-,13,5445414
+201804,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,30,20640000
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,11,6094000
+201804,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,65,9509500
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,72,10248177
+201804,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,26,14404000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,143,22119900
+201804,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,24,15594000
+201804,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,78,43212000
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,177,25185581
+201804,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B789,-,3,1275000
+201804,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,18,2559564
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,203,29698900
+201804,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,11,4180000
+201804,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,183,26454000
+201804,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B748,-,16,10912000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,136,23746416
+201804,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body","McDonnell Douglas",MD90,-,1,142000
+201804,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,28,11900000
+201804,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ9,-,1,75100
+201804,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,41,5830118
+201804,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,30,16620000
+201804,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,8,1236400
+201803,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A346,-,31,17700907
+201803,"Lufthansa German Airlines",LH,"Lufthansa German Airlines",LH,International,Europe,Passenger,"Wide Body",Airbus,A388,-,30,25893280
+201803,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,38,5403524
+201803,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,1,460104
+201803,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,4,516800
+201803,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B748,-,16,12208000
+201803,"Hawaiian Airlines",HA,"Hawaiian Airlines",HA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,62,24876942
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B712,-,58,6380000
+201803,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,207,29808000
+201803,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,151,21771200
+201803,"Sun Country Airlines",SY,"Sun Country Airlines",SY,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,4,584900
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B789,-,6,2550000
+201803,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B763,-,22,7040000
+201803,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,1320,62040000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B773,-,4,2216000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,401,63077300
+201803,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B772,-,3,1410000
+201803,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,1,460104
+201803,"Philippine Airlines",PR,"Philippine Airlines",PR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,26,8320000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,1,350000
+201803,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,34,21383043
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,33,4752000
+201803,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,55,30470000
+201803,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,1,171520
+201803,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,7,2975000
+201803,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,69,9388389
+201803,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,27,17129000
+201803,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,3,413367
+201803,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,67,9802100
+201803,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,1,425000
+201803,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,3,1956000
+201803,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,28,15512000
+201803,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B748,-,21,16023000
+201803,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B788,-,1,380000
+201803,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,31,21328000
+201803,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14010388
+201803,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,59,8389682
+201803,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,5,3260000
+201803,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,150,21379305
+201803,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,176,25033462
+201803,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B739,-,3,471900
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,4,1520000
+201803,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B763,-,24,7677600
+201803,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Airbus,A359,-,10,4563570
+201803,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,22,5984000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,6,932800
+201803,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Airbus,A388,-,17,14654119
+201803,"Compass Airlines",CP,"American Airlines",AA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,323,24282494
+201803,"China Airlines",CI,"China Airlines",CI,International,Asia,Freighter,"Wide Body",Boeing,B744,-,24,15984000
+201803,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,26,3697148
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,202,27833176
+201803,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,27,3950100
+201803,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B773,-,110,60940000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,213,31161900
+201803,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,46,6541108
+201803,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,Passenger,"Wide Body",Airbus,A359,-,4,1825428
+201803,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,73,5471861
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,28,3765496
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,2,940000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,320000
+201803,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,3,413367
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,66,9414831
+201803,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B788,-,26,9880000
+201803,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,10,4600000
+201803,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,79,43766000
+201803,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1159,86875163
+201803,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,26,16846000
+201803,"Japan Airlines",JL,"Japan Airlines",JL,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,140,24444840
+201803,"All Nippon Airways",NH,"All Nippon Airways",NH,International,Asia,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,48,16800000
+201803,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,24,13296000
+201803,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Freighter,"Wide Body",Boeing,B744,-,8,5224000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1401,196313867
+201803,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,1192,152576000
+201803,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,341,25560337
+201803,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,25,3444725
+201803,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,61,28060000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,559,110682000
+201803,"Volaris Airlines",Y4,"Volaris Airlines",Y4,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,29,4219645
+201803,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,79,12426700
+201803,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A332,-,28,11110400
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,1091,171544300
+201803,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Passenger,"Wide Body",Boeing,B772,-,30,14760000
+201803,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,365,62604070
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,3,514557
+201803,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,2,149914
+201803,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A319,-,44,5970120
+201803,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,20,2925400
+201803,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,49,22540000
+201803,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,2,1304000
+201803,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,31,17174000
+201803,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B744,-,6,3780000
+201803,"Singapore Airlines",SQ,"Singapore Airlines",SQ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,31,14147067
+201803,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,"Central America",Passenger,"Narrow Body",Boeing,B738,-,80,11704000
+201803,"Total Airport Services",,"Total Airport Services",,Domestic,US,Freighter,"Wide Body",Boeing,B762,-,5,1415000
+201803,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,798,136857000
+201803,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,140,10500168
+201803,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B789,-,25,10625000
+201803,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,12,1653456
+201803,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,32,17728000
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,1026,150103800
+201803,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B773,-,1,554000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,102,14688000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,258,51084000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B739,-,207,31923100
+201803,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,6,877800
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B753,-,281,62944000
+201803,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,30,12698611
+201803,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,31,4590917
+201803,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,65,3055000
+201803,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,240,16080000
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1714,244884822
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B772,-,223,99355000
+201803,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Embraer,E170,-,50,3747850
+201803,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,39,6689280
+201803,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,3,224871
+201803,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B737,-,12,1550400
+201803,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,131,55675000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,65,9509500
+201803,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B789,-,7,2975000
+201803,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1,142198
+201803,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B788,-,28,10640000
+201803,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,162,12178836
+201803,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ9,-,2,150200
+201803,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,25,9500000
+201803,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,5,1984160
+201803,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B789,-,30,12750000
+201803,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A319,-,1,134482
+201803,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,13,5302115
+201803,"United Airlines",UA,"United Airlines",UA,International,"Middle East",Passenger,"Wide Body",Boeing,B789,-,2,850000
+201802,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Wide Body",Boeing,B764,-,49,17150000
+201802,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,151,21893600
+201802,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,9,674613
+201802,"WOW Air",WW,"WOW Air",WW,International,Canada,Passenger,"Narrow Body",Airbus,A321,-,1,174606
+201802,"SAS Airlines",SK,"SAS Airlines",SK,International,Europe,Passenger,"Wide Body",Airbus,A343,-,28,11852037
+201802,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Wide Body",Airbus,A333,-,3,1223565
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,137,19728000
+201802,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body",Boeing,B752,-,201,39798000
+201802,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,206,13802000
+201802,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B744,-,28,17640000
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B738,-,26,3744000
+201802,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,24,13296000
+201802,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B773,-,24,13296000
+201802,"British Airways",BA,"British Airways",BA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,16,7360000
+201802,"Frontier Airlines",F9,"Frontier Airlines",F9,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,23,3283782
+201802,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Passenger,"Wide Body",Boeing,B763,-,1,326000
+201802,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,1090,81703130
+201802,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B772,-,55,25300000
+201802,"KLM Royal Dutch Airlines",KL,"KLM Royal Dutch Airlines",KL,International,Europe,Passenger,"Wide Body",Boeing,B772,-,1,470000
+201802,"EVA Airways",BR,"EVA Airways",BR,International,Asia,Passenger,"Wide Body",Boeing,B773,-,72,39888000
+201802,"Horizon Air",QX,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,119,8926513
+201802,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia / Oceania",Passenger,"Wide Body",Airbus,A332,-,4,1587328
+201802,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Wide Body",Boeing,B788,-,7,2660000
+201802,"China Airlines",CI,"China Airlines",CI,International,Asia,Passenger,"Wide Body",Boeing,B773,-,28,15512000
+201802,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Airbus,A320,-,1147,160614430
+201802,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,Passenger,"Narrow Body","McDonnell Douglas",MD90,-,14,1988000
+201802,"United Airlines",UA,"United Airlines",UA,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B773,-,28,15512000
+201802,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,127,18062453
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Boeing,B739,-,8,1225400
+201802,"Air France",AF,"Air France",AF,International,Europe,Passenger,"Wide Body",Boeing,B772,-,2,920208
+201802,"American Airlines",AA,"American Airlines",AA,Domestic,US,Passenger,"Wide Body",Airbus,A333,-,1,412260
+201802,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Passenger,"Wide Body",Airbus,A359,-,28,12654535
+201802,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B772,-,57,26220000
+201802,"Qantas Airways",QF,"Qantas Airways",QF,International,"Australia / Oceania",Passenger,"Wide Body",Boeing,B744,-,23,14588000
+201802,"Turkish Airlines",TK,"Turkish Airlines",TK,International,Europe,Passenger,"Wide Body",Boeing,B773,-,28,15512000
+201802,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Embraer,E175,-,14,1049398
+201802,"Nippon Cargo Airlines",KZ,"Nippon Cargo Airlines",KZ,International,Asia,Freighter,"Wide Body",Boeing,B748,-,16,12208000
+201802,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,70,5247432
+201802,"Air Canada",AC,"Air Canada",AC,International,Canada,Passenger,"Wide Body",Boeing,B789,-,1,425000
+201802,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Passenger,"Narrow Body",Airbus,A321,-,338,57973084
+201802,"WOW Air",WW,"WOW Air",WW,International,Europe,Passenger,"Narrow Body",Airbus,A321,-,8,1396848
+201802,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B788,-,25,9500000
+201802,"United Airlines",UA,"United Airlines",UA,Domestic,US,Passenger,"Narrow Body",Boeing,B738,-,194,28382200
+201802,"United Airlines",UA,"United Airlines",UA,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,21,2986158
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A320,-,45,6422059
+201802,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Airbus,A320,-,35,4976930
+201802,"Korean Air Lines",KE,"Korean Air Lines",KE,International,Asia,Passenger,"Wide Body",Boeing,B773,-,55,30470000
+201802,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Embraer,E170,-,441,33056037
+201802,"SkyWest Airlines",OO,"United Airlines",UA,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ2,-,1149,54003000
+201802,"United Airlines",UA,"United Airlines",UA,International,Europe,Passenger,"Wide Body",Boeing,B789,-,2,850000
+201802,"Kalitta Air",K4,"Kalitta Air",K4,Domestic,US,Freighter,"Wide Body",Boeing,B744,-,2,1304000
+201802,"United Airlines",UA,"United Airlines",UA,International,Canada,Passenger,"Narrow Body",Boeing,B738,-,24,3511200
+201802,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Passenger,"Regional Jet",Bombardier,CRJ7,-,12,804000
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,International,US,Passenger,"Narrow Body",Airbus,A321,-,108,18857448
+201802,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Passenger,"Narrow Body",Airbus,A319,-,27,3720276
+201802,"United Airlines",UA,"United Airlines",UA,International,Asia,Passenger,"Wide Body",Boeing,B789,-,90,38250000
+201802,"Asiana Airlines",OZ,"Asiana Airlines",OZ,International,Asia,Freighter,"Wide Body",Boeing,B744,-,20,13028000
+201802,"Air China",CA,"Air China",CA,International,Asia,Passenger,"Wide Body",Boeing,B748,-,28,19264000
+201802,"SkyWest Airlines",OO,"United Airlines",UA,International,Canada,Passenger,"Regional Jet",Bombardier,CRJ2,-,54,2538000
